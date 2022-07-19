@@ -56,9 +56,9 @@ const user = {
    formacao: [
       {
          nome: 'Análise e desenvolvimento de sistemas',
-         data: 'Em andamento - Uninter',
-         linkImage: 'assets/img/logo-uninter.png',
-         alt: 'logo-uninter',
+         data: 'Em andamento - Estacio',
+         linkImage: 'assets/img/logo-estacio.png',
+         alt: 'logo-estacio',
       },
       {
          nome: 'Desenvolvedor frontend',
@@ -72,16 +72,16 @@ const user = {
          titulo: 'Codificador de texto',
          subtitulo: 'Challenge Alura Codificador',
          repositorio:
-            'https://github.com/isacwesley/Codificador-decodificador.git',
-         demo: 'https://isacwesley.github.io/Codificador-decodificador/',
+            'https://github.com/hugolimaslv/Codificador-decodificador.git',
+         demo: 'https://hugolimaslv.github.io/Codificador-decodificador/',
          image: 'assets/img/codificador.png',
          alt: 'codificador e decodificador',
       },
       {
          titulo: 'Jogo da forca',
          subtitulo: 'Challenge Alura Jogo da Forca',
-         repositorio: 'https://github.com/isacwesley/jogo-da-forca.git',
-         demo: 'https://isacwesley.github.io/jogo-da-forca/',
+         repositorio: 'https://github.com/hugolimaslv/jogo-da-forca.git',
+         demo: 'https://hugolimaslv.github.io/jogo-da-forca/',
          image: 'assets/img/forca.png',
          alt: 'jogo da foca',
       },
